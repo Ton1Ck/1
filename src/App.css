@@ -10,19 +10,5 @@
   width: 1500px;
   margin: 0 auto;
 }
-.header{
-  grid-area: h;
-  background-color: #16A085;
-}
-.header img{
-  width: 60px;
-  height: 60px;
-}
-.nav{
-  grid-area: n;
-  background-color: aqua;
-}
-.content{
-  grid-area: c;
-  background-color: #D35400 ;
-}
+
+

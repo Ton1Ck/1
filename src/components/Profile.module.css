@@ -1,0 +1,10 @@
+.content{
+    grid-area: c;
+    background-color: #D35400 ;
+  }
+
+.item {
+  color: greenyellow;
+  font-style: italic;
+  font-size: 1.5em;
+}
