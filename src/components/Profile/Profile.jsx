@@ -11,6 +11,7 @@ const Profile = () => {
       ava+Description
     </div>
     <MyPosts />
+   
   </div>
 }
 export default Profile;
