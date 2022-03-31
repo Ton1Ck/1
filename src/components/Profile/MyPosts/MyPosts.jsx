@@ -14,6 +14,7 @@ const MyPosts = () => {
     <div className={s.posts}>
       <Post message='En Taro Adun' likeCount ='15'/>
       <Post message='En Taro Tassadar' likeCount ='25'/>
+      <Post message='Бать могу работать' likeCount = '145'/>
     </div>
   </div>
 
